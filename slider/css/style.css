@@ -1,0 +1,13 @@
+#fixedbox{
+    
+ display:flex;
+ flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+#smallBox img{
+
+
+height:50vh;
+   
+}
